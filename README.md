@@ -4,8 +4,10 @@
 
 ### Link
 
-* 이력서   
-* Github   
-* Youtube   
-* unihit@naver.com   
+* 이력서
 
+* Github
+
+* Youtube
+
+* unihit@naver.com   
