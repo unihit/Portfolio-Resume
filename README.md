@@ -6,7 +6,7 @@
 
 * [이력서](https://github.com/unihit/Portfolio-Resume/blob/master/Resume_kr.md)
 
-* Github
+* [Github](https://github.com/unihit)
 
 * Youtube
 
