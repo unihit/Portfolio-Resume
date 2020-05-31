@@ -4,10 +4,12 @@
 
 ### Link
 
-* 이력서
+* [이력서](https://github.com/unihit/Portfolio-Resume/blob/master/Resume_kr.md)
 
 * Github
 
 * Youtube
 
 * unihit@naver.com   
+
+
